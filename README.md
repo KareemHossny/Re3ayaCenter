@@ -27,8 +27,8 @@ Designed for real-world usage with **scalable REST APIs**, **JWT & Google OAuth 
 
 ## 📦 Source Code
 
-- **Frontend Repository:** [Re3aya-Frontend](https://github.com/KareemHossny/Re3aya-Frontend)  
-- **Backend Repository:** [Re3aya-Backend](https://github.com/KareemHossny/Re3aya-Backend)
+- **Frontend Repository:** [Re3aya-Frontend](https://github.com/KareemHossny/Re3ayaCenter-FrontEnd)  
+- **Backend Repository:** [Re3aya-Backend](https://github.com/KareemHossny/Re3ayaCenter-BackEnd)
 
 ---
 
